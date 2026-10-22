@@ -1,36 +1,11 @@
-# Soul‑Knott 🎮
+# Soul-Knott
 
-An experimental game or simulation project written in [specify language, e.g., C++, C#, Python] using [mention any engine or framework if applicable, e.g., Unity, SFML, Pygame].
+A 2D platformer where you play as a knight, made with **Unity (C#)** by a team of 5 at the **Boğaziçi Game Jam** (May 2024). The jam theme was *knot* ("düğüm").
 
----
+[Watch the trailer](https://youtu.be/b2JsIpSOcAE)
 
-## 📌 Overview
+## My role
+I was the sound producer. I made all the music and sound effects in FL Studio and helped integrate them into the game.
 
-**Soul‑Knott** is a [brief description: e.g., 2D platformer, puzzle-adventure, roguelike dungeon crawler] focusing on:
-- Core gameplay mechanics (character control, movement, combat)
-- Enemy AI and behavior logic
-- Level design and tile-based maps
-- Sound, music, and visual effects
-- Input handling (keyboard, gamepad)
-
-This project is ideal for learning game architecture, asset pipeline, and engine integration.
-
----
-
-
-In each folder, you’ll typically find:
-- `.cpp`, `.cs`, `.py`, or other source files
-- Asset files (`.png`, `.wav`, `.json`, etc.)
-- Build scripts (`Makefile`, `.bat`, `.sh`, CMakeLists.txt)
-- Documentation (level design notes, entity/class descriptions)
-
----
-
-## 💻 Prerequisites
-
-To build and run the project, ensure you have:
-- [Language-specific SDK or runtime] (e.g., .NET SDK 7.0, Python 3.11)
-- Game engine or library dependencies (e.g., Unity 2024.1, SFML 2.5, Pygame)
-- A build system (e.g., `dotnet build`, `make`, `cmake`, or Python virtual environment)
-
----
+## Playable build
+A playable build is included in this repository as a `.rar` archive. Download it, extract it and run the game from the extracted folder.
